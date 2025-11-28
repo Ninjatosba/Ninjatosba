@@ -1,32 +1,28 @@
-# 👋 Hi, I'm Deniz (aka Ninjatosba)
+# 👋 Hi, I'm Deniz
 
-I'm a smart contract developer with a strong focus on the Cosmos ecosystem and Rust-based development (CosmWasm). I've worked on DeFi protocols, NFT tooling, and content publishing smart contracts—shipping production-grade code and contributing to open source ecosystems like OmniFlix, Streamswap and Stargaze.
-
----
-
-### 🛠️ Tech I Work With
-- **Languages:** Rust, TypeScript, Solidity, JavaScript
-- **Blockchain:** CosmWasm, Cosmos SDK, EVM
-- **Tools:** Hardhat, Next.js, MongoDB, React
+I’m a backend and smart contract engineer working across the **Cosmos** and **EVM** ecosystems. My work focuses on **financial protocols**, **content platforms**, and **contract-driven backend workflows**. I’ve shipped production systems used by creators, communities, and live applications on multiple chains. I currently lead smart contract development at **OmniFlix Network**, where I design on-chain workflows, indexing pipelines, and upgrade/migration processes for high-volume platforms.
 
 ---
 
-### 🔥 What I'm Up To
-- Contributing to [OmniFlix Network](https://github.com/OmniFlix)
-- Building tools and contracts for creators, communities, and protocols
-- Writing and testing smart contracts with CosmWasm and Rust
-- Exploring EVM-compatible deployments and indexing tools
+### **Core Skills**
+- **Smart Contracts:** Rust (CosmWasm), Solidity  
+- **Backend:** TypeScript/Node.js, Rust, Actix-Web, REST services, indexing pipelines  
+- **Blockchains:** Cosmos SDK, Ethereum/EVM  
+- **Tooling:** Hardhat, Ethers.js, Subgraph, MongoDB
 
 ---
 
-### 🧪 Highlighted Projects
-- [`cw-streamswap`](https://github.com/Ninjatosba/cw-streamswap): Streaming-based token distribution contract with permit support and full withdraw logic
-- [`channel-contracts`](https://github.com/Ninjatosba/channel-contracts): Manage channels, publish assets, create playlists, and more
-- [`launchpad-contracts`](https://github.com/Ninjatosba/launchpad-contracts): Custom minting flow for NFTs with creator control and fixed-price logic
+### **Selected Work**
+- **StreamSwap (Cosmos & EVM):** streaming payments, deterministic settlement logic, Subgraph indexing  
+- **OmniFlix Channel Contracts:** channels, publishing, playlists, metadata, creator workflows  
+- **NFT Launchpad (CosmWasm):** collection creation, sale mechanics, high-volume minting flows  
+- **Dutch Auction Module:** timed on-chain price discovery with clean off-chain tooling
+
+I focus on **correctness, predictable state transitions, and clean integration between contracts and backend services**.
 
 ---
 
-### 📬 Let's Connect
-- [LinkedIn](https://linkedin.com/in/adenizcorlu)
-- [Twitter](https://twitter.com/ninjatosba)
+### **Links**
+- LinkedIn: https://linkedin.com/in/adenizcorlu  
+- Twitter: https://twitter.com/ninjatosba  
 - Email: adenizcorlu@gmail.com
